@@ -1,0 +1,6 @@
+Objects: Any variable that contains multiple adressable items - similar to arrays.
+Properties: addressable items in an object variable.
+Methods: functions internal to an object.
+for in loop: A for loop that loops through the properties of an object.
+dot notation vs bracket notation: When an objects properties are known dot notaion address them. If property is unknown
+bracket notaion is used.
